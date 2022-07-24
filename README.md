@@ -18,6 +18,11 @@
                           
                           
    Big-O gösterimini yazınız O[n*logn]
+   
+   
+   
+   
+   www.patika.dev
                          
                 
   
